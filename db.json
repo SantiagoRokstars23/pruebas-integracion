@@ -1,27 +1,35 @@
 {
   "posts": [
     {
-      "address": {
-        "city": "Gwenborough",
-        "geo": {
-          "lat": "-37.3159",
-          "lng": "81.1496"
-        },
-        "street": "Kulas Light",
-        "suite": "Apt. 556",
-        "zipcode": "92998-3874"
-      },
-      "company": {
-        "bs": "harness real-time e-markets",
-        "catchPhrase": "Multi-layered client-server neural-net",
-        "name": "Romaguera-Crona"
-      },
-      "email": "Sincere@april.biz",
       "id": 1,
-      "name": "Leanne Graham",
-      "phone": "1-770-736-8031 x56442",
-      "username": "Bret",
-      "website": "hildegard.org"
+      "OperDay": "",
+      "Result": "Approved",
+      "ApprovalCode": "SUCCESS",
+      "DeclineReason": "",
+      "Person": [
+        {
+          "FirstName": "Maria",
+          "LastName": "alejandra",
+          "idNumber": "1924",
+          "docType": "Tarjeta Credito",
+          "email": "sgruesomunoz@gmail.com",
+          "phoneNumber ": "3145717357",
+          "Address": "Cll 51#39-E-59"
+        }
+      ],
+      "Card": [
+        {
+          "Pan": "****3124",
+          "TokenId": "1",
+          "CreateDay": "20230831",
+          "CardStatus": "New",
+          "ExpDate": "20261831",
+          "ContractName": "MASTER",
+          "AvailBalance": "25000",
+          "Currency": "USD",
+          "LastPostingDate": "20230831"
+        }
+      ]
     }
   ],
   "profile": {
