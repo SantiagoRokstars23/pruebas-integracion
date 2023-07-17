@@ -1,7 +1,6 @@
 {
   "posts": [
     {
-      "code": "00",
       "id": 1,
       "OperDay": "",
       "Result": "Approved",
@@ -11,6 +10,7 @@
         {
           "FirstName": "Maria",
           "LastName": "alejandra",
+          "Since": "20230715",
           "idNumber": "1924",
           "docType": "Tarjeta Credito",
           "email": "sgruesomunoz@gmail.com",
@@ -29,6 +29,19 @@
           "AvailBalance": "25000",
           "Currency": "USD",
           "LastPostingDate": "20230831"
+        }
+      ],
+      "Movement": [
+        {
+          "ContractName": "MASTER",
+          "MvSign": "",
+          "MvAmt": "",
+          "MvDate": "20230717",
+          "Currency": "USD",
+          "Reference": "654161614681616",
+          "Pan": "****3124",
+          "MvDet": "Compras",
+          "Country": "Colombia"
         }
       ]
     }
