@@ -33,14 +33,14 @@
       ],
       "Movement": [
         {
-          "ContractName": "MASTER",
-          "MvSign": "",
-          "MvAmt": "",
+          "ContractName": "vendor01",
+          "MvSign": "-",
+          "MvAmt": "2500",
           "MvDate": "20230717",
           "Currency": "USD",
           "Reference": "654161614681616",
           "Pan": "****3124",
-          "MvDet": "Compras",
+          "MvDet": "REPARACIÓN MOTO",
           "Country": "Colombia"
         }
       ]
