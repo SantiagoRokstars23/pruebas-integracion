@@ -26,7 +26,7 @@
           "cardType": "debit",
           "expDate": "2027-08-31 23:59:59.0",
           "contractName": "Cuenta Tarjeta",
-          "availBalance": "672.40",
+          "availBalance": 672.40,
           "currency": "USD",
           "lastPostingDate": "2022-08-28 22:19:16.329"
         }
