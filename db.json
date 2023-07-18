@@ -1,47 +1,59 @@
 {
   "posts": [
     {
-      "id": 1,
-      "OperDay": "",
-      "Result": "Approved",
-      "ApprovalCode": "SUCCESS",
+      "id": "230714000000609912",
+      "operDay": "2023-07-14 15:32:05.098",
+      "result": "Approved",
+      "approvalCode": "2TDT1K",
       "DeclineReason": "",
       "Person": [
         {
-          "FirstName": "Maria",
-          "LastName": "alejandra",
-          "Since": "20230715",
-          "idNumber": "1924",
-          "docType": "Tarjeta Credito",
-          "email": "sgruesomunoz@gmail.com",
-          "phoneNumber ": "3145717357",
-          "Address": "Cll 51#39-E-59"
+          "firstName": "Rafael",
+          "lastName": "Campos",
+          "since": "2022-08-28 21:59:25.0",
+          "idNumber": "88",
+          "docType": "2",
+          "email": "emailtest@test.com",
+          "phoneNumber": "507-78496510",
+          "address": "Calle 1"
         }
       ],
       "Card": [
         {
-          "Pan": "****3124",
-          "TokenId": "1",
-          "CreateDay": "20230831",
-          "CardStatus": "New",
-          "ExpDate": "20261831",
-          "ContractName": "MASTER",
-          "AvailBalance": "25000",
-          "Currency": "USD",
-          "LastPostingDate": "20230831"
+          "Pan": "478686******0120",
+          "TokenId": "8ac7a4e65",
+          "createDay": " 2022-08-28 00:00:00.0",
+          "cardStatus": " A",
+          "cardType": "debit",
+          "expDate": "2027-08-31 23:59:59.0",
+          "contractName": "Cuenta Tarjeta",
+          "availBalance": " 672.40",
+          "currency": "USD",
+          "lastPostingDate": " 2022-08-28 22:19:16.329"
         }
       ],
-      "Movement": [
+      "movement": [
         {
-          "ContractName": "vendor01",
-          "MvSign": "-",
-          "MvAmt": "2500",
-          "MvDate": "20230717",
-          "Currency": "USD",
-          "Reference": "654161614681616",
-          "Pan": "****3124",
-          "MvDet": "REPARACIÓN MOTO",
-          "Country": "Colombia"
+          "contractName": "Cuenta Tarjeta",
+          "mvSign": "Debit",
+          "mvAmt": "12.72",
+          "mvDate": "2022-09-14 00:00:00.0",
+          "currency": "USD",
+          "reference": "DS33DT",
+          "pan": "478686******0120",
+          "mvDet": "Purchase at Merchant POS TITP",
+          "country": "PA"
+        },
+        {
+          "contractName": "Cuenta Tarjeta",
+          "mvSign": "Debit",
+          "mvAmt": "9.14",
+          "mvDate": "2022-09-14 00:00:00.0",
+          "currency": "USD",
+          "reference": "BX19PW",
+          "pan": "478686******0120",
+          "mvDet": "Purchase at Merchant POS TITP",
+          "country": "PA"
         }
       ]
     }
