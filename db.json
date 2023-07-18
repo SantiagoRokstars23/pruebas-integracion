@@ -5,8 +5,7 @@
       "operDay": "2023-07-14 15:32:05.098",
       "result": "Approved",
       "approvalCode": "2TDT1K",
-      "DeclineReason": "",
-      "Person": [
+      "person": [
         {
           "firstName": "Rafael",
           "lastName": "Campos",
@@ -18,7 +17,7 @@
           "address": "Calle 1"
         }
       ],
-      "Card": [
+      "card": [
         {
           "Pan": "478686******0120",
           "TokenId": "8ac7a4e65",
