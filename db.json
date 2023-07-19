@@ -45,17 +45,6 @@
       ],
       "movement": [
         {
-          "contractName": "Cuenta Tarjeta debit",
-          "mvSign": "Debit",
-          "mvAmt": "9.14",
-          "mvDate": "2022-09-14 00:00:00.0",
-          "currency": "USD",
-          "reference": "BX19PW",
-          "pan": "478686******0120",
-          "mvDet": "Purchase at Merchant POS TITP2",
-          "country": "PA"
-        },
-        {
           "contractName": "Cuenta Tarjeta credit",
           "mvSign": "Credit",
           "mvAmt": "12.72",
@@ -64,6 +53,17 @@
           "reference": "DS33DT",
           "pan": "155699******6387",
           "mvDet": "Purchase at Merchant POS TITP1",
+          "country": "PA"
+        },
+        {
+          "contractName": "Cuenta Tarjeta debit",
+          "mvSign": "Debit",
+          "mvAmt": "9.14",
+          "mvDate": "2022-09-14 00:00:00.0",
+          "currency": "USD",
+          "reference": "BX19PW",
+          "pan": "478686******0120",
+          "mvDet": "Purchase at Merchant POS TITP2",
           "country": "PA"
         }
       ]
